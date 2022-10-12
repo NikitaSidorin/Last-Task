@@ -1,0 +1,15 @@
+C:\Users\nikit\OneDrive\Рабочий стол\Last Task'\Last Task1\Sem8\Задача 60\bin\Debug\net6.0\Задача 60.exe
+C:\Users\nikit\OneDrive\Рабочий стол\Last Task'\Last Task1\Sem8\Задача 60\bin\Debug\net6.0\Задача 60.deps.json
+C:\Users\nikit\OneDrive\Рабочий стол\Last Task'\Last Task1\Sem8\Задача 60\bin\Debug\net6.0\Задача 60.runtimeconfig.json
+C:\Users\nikit\OneDrive\Рабочий стол\Last Task'\Last Task1\Sem8\Задача 60\bin\Debug\net6.0\Задача 60.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Last Task'\Last Task1\Sem8\Задача 60\bin\Debug\net6.0\Задача 60.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Last Task'\Last Task1\Sem8\Задача 60\obj\Debug\net6.0\Задача 60.csproj.AssemblyReference.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Last Task'\Last Task1\Sem8\Задача 60\obj\Debug\net6.0\Задача 60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\OneDrive\Рабочий стол\Last Task'\Last Task1\Sem8\Задача 60\obj\Debug\net6.0\Задача 60.AssemblyInfoInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Last Task'\Last Task1\Sem8\Задача 60\obj\Debug\net6.0\Задача 60.AssemblyInfo.cs
+C:\Users\nikit\OneDrive\Рабочий стол\Last Task'\Last Task1\Sem8\Задача 60\obj\Debug\net6.0\Задача 60.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Last Task'\Last Task1\Sem8\Задача 60\obj\Debug\net6.0\Задача 60.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Last Task'\Last Task1\Sem8\Задача 60\obj\Debug\net6.0\refint\Задача 60.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Last Task'\Last Task1\Sem8\Задача 60\obj\Debug\net6.0\Задача 60.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Last Task'\Last Task1\Sem8\Задача 60\obj\Debug\net6.0\Задача 60.genruntimeconfig.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Last Task'\Last Task1\Sem8\Задача 60\obj\Debug\net6.0\ref\Задача 60.dll
